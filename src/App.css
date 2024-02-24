@@ -40,3 +40,16 @@
 .read-the-docs {
 	color: #888;
 }
+
+#text {
+	font-size: 1.5rem;
+}
+
+#author {
+	/* font-weight: bold; */
+	color: rgb(247, 223, 30);
+}
+
+.fa-solid {
+	color: rgb(247, 223, 30);
+}
